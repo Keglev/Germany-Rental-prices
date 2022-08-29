@@ -4,14 +4,14 @@ Data analyses for rental prices in Germany
 
 Objective
 
-Many people are considering moving to Germany, or at least invest in the housing market. Regardless of the objective, people uses a lot of information from websites - and one of the most popular search websites for this is the Immoscout (www.immoscout.com)
+Many people are considering moving to Germany, or at least investing in the housing market. Regardless of the objective, people use a lot of information from websites - and one of the most popular search websites for this is the Immoscout (www.immoscout.com)
 The objective of this study is to show how apartment condition and city location can affect the rent prices
 
 Data
 
-This dataset comes from Kaggle (www.kaggle.com) and was used a web scrapper to get rent prices in Oct 2019 from the website of Immoscout. Immoscout sometimes manages the ads, but there are many private individuals that put theirs listings there.
+This dataset comes from Kaggle (www.kaggle.com) and was used as a web scrapper to get rent prices in Oct 2019 from the website of Immoscout. Immoscout sometimes manages the ads, but there are many private individuals that put their listings there.
 
-The dataset gets only some of the informations like:
+The dataset gets only some of the pieces of information like:
 
 - City
 - heating type
@@ -40,6 +40,7 @@ The codes used for the analysis are available under the "Scripts" folder.
 
 Presentation
 
-Presentation folder shows a link to Tableau regarding this project.
+The presentation folder shows a link to Tableau regarding this project.
+
 
 
